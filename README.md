@@ -11,4 +11,3 @@ Arduino Uno\
 8 rechargeable batteries\
 
 
-![image of the mobile robot](https://github.com/adr288/Deferential_Drive_Mobile_Robot/blob/master/Mini_robot.png)
