@@ -10,4 +10,5 @@ Arduino Uno\
 5 Sonar sensors\
 8 rechargeable batteries\
 
+❮img src="Mini_robot.png" width="100" ❯
 
