@@ -4,12 +4,8 @@ This is a hybrid, low-level control software written for a differential-drive mo
 The system uses dead-reckoning for odometry which is obtained from the infrared sponsors attached to the robot's wheels. 5 sonar sensors are used to detect and trace the obstacles located about 30cm away from the robot.
 
 
-Hardware used:
-
-Arduino Uno
-
-2 Servomotors
-
-5 Sonar sensors 
-
-8 rechargeable batteries 
+Hardware used:\
+Arduino Uno\
+2 Servomotors\
+5 Sonar sensors\
+8 rechargeable batteries\
