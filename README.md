@@ -6,7 +6,7 @@ The system uses dead-reckoning for odometry which is obtained from the infrared 
 
 Hardware used:\
 Arduino Uno\
-2 Servomotors\
+2 Servomotors with IR encoders\
 5 Sonar sensors\
 8 rechargeable batteries\
 
